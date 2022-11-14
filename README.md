@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @coder-harsh05
-- 👀 I’m interested in game development and web development
+- 👀 I’m interested in web development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate and to be a part of community
 - 📫 How to reach me ... you can contact me by email - instinctjiren04@gmail.com instagram-harshchauhan.525
